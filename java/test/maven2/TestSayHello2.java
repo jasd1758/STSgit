@@ -3,10 +3,14 @@ package test.maven2;
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
-
+/**
+ *    -¿¨¿¨ÂÞÌØ 
+ * @author Administrator
+ *
+ */
 public class TestSayHello2 {
 
-	
+	//123456
 	@Test
 	public void  testSayHello2(){
 		
